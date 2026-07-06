@@ -1,31 +1,15 @@
-# AI-ML-Learning
+# Natural Language Processing
 
-This repository documents my journey of learning Artificial Intelligence and Machine Learning.
+This repository documents my learning journey in Natural Language Processing, from classical NLP techniques to modern Transformer-based models.
 
-## Topics Covered
+The repository contains:
 
-- Python
-- Mathematics for Machine Learning
-- NLP
-  - Text Preprocessing
-  - Text Representation
-    - Bag of Words
-    - TF-IDF
-    - Word2Vec
-    - FastText
-    - GloVe
-    - Transformers
-    - BERT
-    - GPT
-    - Sentence Transformers
-  
+- Notes
+- Python implementations
+- Jupyter notebooks
+- Mini projects
+- Practice exercises
 
-## Upcoming
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- MLOps
 
 ## Author
 
