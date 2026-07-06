@@ -8,15 +8,17 @@ This repository documents my journey of learning Artificial Intelligence and Mac
 - Mathematics for Machine Learning
 - NLP
   - Text Preprocessing
-  - Bag of Words
-  - TF-IDF
-  - Word2Vec
-  - FastText
-  - GloVe
-  - Transformers
-  - BERT
-  - GPT
-  - Sentence Transformers
+  - Text Representation
+    - Bag of Words
+    - TF-IDF
+    - Word2Vec
+    - FastText
+    - GloVe
+    - Transformers
+    - BERT
+    - GPT
+    - Sentence Transformers
+  
 
 ## Upcoming
 
